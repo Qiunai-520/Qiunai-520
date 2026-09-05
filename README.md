@@ -9,6 +9,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Qiunai-520.Qiunai-520" alt="visitors"/>
 </p>
 
+<!--   my-header-img -->
+![](./src/header_.png)
+
 <!--   my-ticker -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我是+秋奈;欢迎来到我的主页!;热爱代码，也热爱生活;持续学习，持续折腾;开源爱好者" alt="Typing SVG" /></a>
@@ -74,20 +77,27 @@
 
 ---
 
-<p align="center">
-<img src="https://profile-counter.glitch.me/Qiunai-520/count.svg">
-</p>
+<p>
 
-<p align="center">本页面访问计数自今天开始统计 ✨</p>
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@Qiunai−520.github.readme)
+</br>
+
+[MIT](LICENSE)
+
+</p>
 
 ### ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Qiunai-520/Qiunai-520&type=Date)](https://star-history.com/#Qiunai-520/Qiunai-520&Date)
 
 ---
+Would you ike to meet me?
 
-<p align="center">
-  <i>感谢你的到访 💖 如果喜欢这个主页，欢迎点个 ⭐️，也欢迎 Fork 这个模板自己使用！</i>
-</p>
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+---
+
+![](assets/Bottom_down.svg)
