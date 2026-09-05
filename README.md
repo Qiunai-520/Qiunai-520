@@ -5,24 +5,18 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/Qiunai-520/Qiunai-520/graphs/contributors"><img src="https://img.shields.io/github/contributors/Qiunai-520/Qiunai-520?color=blue"></a>
     <a href="https://github.com/Qiunai-520/Qiunai-520/stargazers"><img src="https://img.shields.io/github/stars/Qiunai-520/Qiunai-520.svg?logo=github"></a>
-    <a href="https://github.com/Qiunai-520/Qiunai-520/network/members"><img src="https://img.shields.io/github/forks/Qiunai-520/Qiunai-520.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Qiunai-520.Qiunai-520" alt="visitors"/>   
-</p>
-
-<p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
 
 ![](./src/header_.png)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我是秋奈;欢迎来到我的主页!;热爱代码，也热爱生活;持续学习，持续折腾;开源爱好者" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我是秋奈;欢迎来到我的主页!;热爱代码，也热爱生活;持续学习，持续折腾;开源爱好者" alt="Typing SVG" /></a>
 </p>
+
+<a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+
 
 ---
 
@@ -57,7 +51,7 @@
 | ![Qiunai-520's github stats](https://github-readme-stats.vercel.app/api?username=Qiunai-520&show_icons=true&theme=radical&include_all_commits=true) | ![Qiunai-520's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiunai-520&theme=radical&layout=compact) |
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Qiunai-520&theme=radical"></img>
+<img src="https://streak-stats.herokuapp.com/?user=Qiunai-520&theme=radical"></img>
 </p>
 
 ![Qiunai-520's github activity graph dark](https://raw.githubusercontent.com/Qiunai-520/Qiunai-520/output/github-contribution-grid-snake-dark.svg)
