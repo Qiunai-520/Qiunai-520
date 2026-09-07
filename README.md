@@ -1,4 +1,4 @@
-+![](assets/Bottom_up.svg)
+![](assets/Bottom_up.svg)
 
 <p align="center">
     <a href="https://github.com/Qiunai-520/Qiunai-520"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -57,8 +57,11 @@
 **📫 如何联系我：**
 
 <p align="left">
+<a href="https://t.me/Qiunai520" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://x.com/Qiunai_520" target="_blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:Qiunai_520@163.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Qiunai-520" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
 </p>
 
 ---
@@ -70,8 +73,6 @@
 
 ![](https://count.getloli.com/get/@Qiunai-520.github.readme)
 </br>
-
-[MIT](LICENSE)
 
 </p>
 
