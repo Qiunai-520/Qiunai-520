@@ -11,7 +11,7 @@
 ![](./src/header_.png)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%00000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我是秋奈;欢迎来到我的主页!;热爱代码，也热爱生活;持续学习，持续折腾;开源爱好者" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我是秋奈;欢迎来到我的主页!;热爱代码，也热爱生活;持续学习，持续折腾;开源爱好者" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -40,7 +40,6 @@
 ### 📈 GitHub 数据统计
 
 ![Qiunai-520's github activity graph](https://raw.githubusercontent.com/Qiunai-520/Qiunai-520/output/github-contribution-grid-snake.svg)
-![](./src/github-contribution-grid-snake.svg)
 
 | .                                                                                                                                              | .                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -58,18 +57,11 @@
 
 <p align="left">
 
-<a href="https://t.me/Qiunai520">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://x.com/Qiunai_520">
-  <img src="https://img.shields.io/badge/​​​​​​​​​​​​​​​​​​​​​​X​​​​​​​​​​​​​​​​​​​​​​​​​​​-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-<a href="mailto:Qiunai_520@163.com">
-  <img src="https://img.shields.io/badge/​​​​​​​​​​Email​​​​​​​​​​​​​-D14836?style=for-the-badge&logo=maildotru&logoColor=white">
-</a>
-<a href="https://github.com/Qiunai-520">
-  <img src="https://img.shields.io/badge/​​​​​​​GitHub​​​​​​​​-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://t.me/Qiunai520" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-30A3E6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://x.com/Qiunai_520" target="_blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:Qiunai_520@163.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Qiunai-520" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
 
 
 </p>
@@ -82,7 +74,6 @@
 本节中本页面的访客计数从2026年9月5日开始
 
 ![](https://count.getloli.com/get/@Qiunai-520.github.readme)
-</br>
 
 </p>
 
@@ -92,9 +83,11 @@
 
 ---
 
-你想见我吗？
+欢迎交流! 
 
-如果你想为我的任何仓库做出贡献，请随时提交拉取请求（PRs）、问题，并给我发邮件。如果你想见我并讨论提案和想法，请选择一个时间档——但请务必描述一下议程。
+如果你喜欢我的项目，欢迎为我的仓库提交 Issue、Pull Request（PR），或者通过邮件与我交流。
+
+如果你有有趣的想法、项目提案，或者想一起折腾点什么，也欢迎联系我。
 
 ---
 
