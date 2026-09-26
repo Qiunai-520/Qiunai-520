@@ -11,7 +11,7 @@
 ![](./src/header_.png)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我是秋奈;欢迎来到我的主页!;热爱代码，也热爱生活;持续学习，持续折腾;开源爱好者" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?color=000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我是秋奈;欢迎来到我的主页!;热爱代码，也热爱生活;持续学习，持续折腾;开源爱好者" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -41,13 +41,16 @@
 
 ![Qiunai-520's github activity graph](https://raw.githubusercontent.com/Qiunai-520/Qiunai-520/output/github-contribution-grid-snake.svg)
 
-| .                                                                                                                                              | .                                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| GitHub Stats| Top Languages
-"Qiunai-520's GitHub stats" (https://github-readme-stats.vercel.app/api?username=Qiunai-520&show_icons=true&theme=radical&include_all_commits=true)| "Qiunai-520's GitHub top langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=Qiunai-520&theme=radical&layout=compact) |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qiunai-520/Qiunai-520/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+| GitHub Stats | Top Languages |
+|---------------|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=Qiunai-520&show_icons=true&theme=radical&include_all_commits=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiunai-520&theme=radical&layout=compact" /> |
 
 <p align="center">
-<img src="https://streak-stats.herokuapp.com/?user=Qiunai-520&theme=radical"></img>
+<img src="https://streak-stats.demolab.com/?user=Qiunai-520&theme=radical"></img>
 </p>
 
 ---
@@ -70,7 +73,7 @@
 <p>
 
 ### Profile Views
-本节中本页面的访客计数从2026年9月5日开始
+<!-- 本节访客计数从2026年9月5日开始 -->
 
 ![](https://count.getloli.com/get/@Qiunai-520.github.readme)
 
