@@ -30,10 +30,10 @@ jobs:
           plugin_languages: yes  # отображение применяемых языков программирования
           plugin_languages_details: bytes-size, percentage  # дополнительная информация о коде размер и процент
 
-          plugin_achievements: yes
+#          plugin_achievements: yes
 
-          plugin_achievements_threshold: X  # (покажет фишки достижений которые еще не разблокированы)
-          plugin_achievements_display: detailed  # детальное описание фишек достижений
+#          plugin_achievements_threshold: X  # (покажет фишки достижений которые еще не разблокированы)
+#          plugin_achievements_display: detailed  # детальное описание фишек достижений
 
           plugin_calendar: yes  # отображает активность по годам от текущего и далее
           plugin_calendar_limit: 11 # отображает активность за столько лет
